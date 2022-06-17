@@ -45,11 +45,11 @@
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasad489)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Guruprasad489&show_icons=true&hide_border=true) 
 
-<!-- ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guruprasad489&theme=vue) -->
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guruprasad489&theme=vue)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Guruprasad489&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
 <!-- ![github stats](https://github-readme-streak-stats.herokuapp.com/?user=Guruprasad489&show_icons=true&hide_border=true)
  -->
-![github stats](https://activity-graph.herokuapp.com/graph?username=Guruprasad489&theme=minimal)
+<!-- ![github stats](https://activity-graph.herokuapp.com/graph?username=Guruprasad489&theme=minimal) -->
 
